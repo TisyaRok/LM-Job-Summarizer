@@ -1,5 +1,11 @@
 import os
+from dotenv import load_dotenv  
 from google import genai
+
+
+load_dotenv()  # reads the .env file automatically
+
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 def load_job_description(filepath):
     with open(filepath, "r") as f:
