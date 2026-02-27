@@ -1,0 +1,43 @@
+Job Title: Software Engineer – Defense Systems
+Company: Apex Defense Technologies
+Location: Fort Worth, TX (On-site)
+
+About the Role:
+Apex Defense Technologies is seeking a skilled Software Engineer to join our Systems Integration team.
+You will design, develop, and maintain software for mission-critical defense applications, working
+closely with systems engineers, program managers, and government stakeholders.
+
+Responsibilities:
+- Design and implement embedded software and real-time systems for avionics and ground control platforms.
+- Develop and maintain C++ and Python codebases for data processing pipelines and simulation tools.
+- Integrate software components with hardware systems and conduct unit, integration, and regression testing.
+- Collaborate with cross-functional teams to define software requirements and architecture.
+- Participate in code reviews, technical documentation, and Agile sprint planning.
+- Support debugging and root cause analysis of software defects in deployed systems.
+- Ensure compliance with DO-178C, MISRA C++, and other applicable software standards.
+
+Required Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, Electrical Engineering, or related field.
+- 3+ years of professional software development experience.
+- Proficiency in C++ (modern C++11/14/17) and Python.
+- Experience with real-time operating systems (RTOS) such as VxWorks or INTEGRITY.
+- Strong understanding of software development life cycle (SDLC) and Agile/Scrum methodologies.
+- Familiarity with version control systems, particularly Git.
+- Active DoD Secret security clearance (or ability to obtain one).
+
+Preferred Qualifications:
+- Experience with Model-Based Systems Engineering (MBSE) tools such as MATLAB/Simulink.
+- Knowledge of MIL-STD-1553 or ARINC 429 data bus protocols.
+- Experience with CI/CD pipelines and DevSecOps practices.
+- Familiarity with Linux kernel development or device driver programming.
+- Prior experience in an aerospace or defense environment.
+
+Soft Skills:
+- Strong analytical and problem-solving skills.
+- Excellent written and verbal communication skills.
+- Ability to work independently and within a team in a fast-paced environment.
+- Detail-oriented with a commitment to quality and safety.
+
+Compensation:
+- Salary range: $95,000 – $130,000 depending on experience.
+- Benefits include health, dental, vision, 401(k) matching, and paid time off.
